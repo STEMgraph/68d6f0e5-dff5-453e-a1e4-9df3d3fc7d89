@@ -1,7 +1,8 @@
 <!---
 {
-  "depends_on": ["memory", "encoding", "mapping"],
+  "id": "68d6f0e5-dff5-453e-a1e4-9df3d3fc7d89",
   "author": "Stephan Bökelmann",
+  "depends_on": ["memory", "encoding", "mapping"],
   "first_used": "2025-03-20",
   "keywords": ["type", "datatype", "encoding", "C"]
 }
